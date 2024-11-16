@@ -1,1 +1,1 @@
-# Estat-stica-para-Ci-ncia-de-Dados-e-Machine-Learning
+# Estatastica para Ciencia de Dados e Machine Learning
